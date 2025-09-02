@@ -3,7 +3,7 @@
 
 ## Table of Contents
 - [Overview](./#overview)
-- [Proposed Improvements & Budget](./#Proposed%2o%Improvements%2o%&%2o%Budget)
+- [Proposed Improvements & Budget](./#Proposed-Improvements--Budget)
 - Final Outcomes & Vendor Analysis
 - Next Steps & Key Takeaways
 - Tools Used
