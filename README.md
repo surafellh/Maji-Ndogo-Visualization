@@ -5,11 +5,11 @@
 - [Overview](./#overview)
 - [Proposed Improvements & Budget](./#Proposed-Improvements--Budget)
 - [Progress After One Year](./#Progress-After-One-Year)
-- [Project Completion Report](./Project-Completion-Report)
-- [Next Steps & Key Takeaways](Next-Steps--Key-Takeaways)
-- [Tools Used](Tools-Used)
-- [How to Explore](How-to-Explore)
-- [Contact](Contact)
+- [Project Completion Report](./#Project-Completion-Report)
+- [Next Steps & Key Takeaways](./#Next-Steps--Key-Takeaways)
+- [Tools Used](/#Tools-Used)
+- [How to Explore](./#How-to-Explore)
+- [Contact](./#Contact)
 
 ---
 
