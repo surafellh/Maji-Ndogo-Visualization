@@ -4,11 +4,12 @@
 ## Table of Contents
 - [Overview](./#overview)
 - [Proposed Improvements & Budget](./#Proposed-Improvements--Budget)
-- Final Outcomes & Vendor Analysis
-- Next Steps & Key Takeaways
-- Tools Used
-- How to Explore
-- Contact
+- [Progress After One Year](./#Progress-After-One-Year)
+- [Project Completion Report](./Project-Completion-Report)
+- [Next Steps & Key Takeaways](Next-Steps--Key-Takeaways)
+- [Tools Used](Tools-Used)
+- [How to Explore](How-to-Explore)
+- [Contact](Contact)
 
 ---
 
@@ -116,8 +117,8 @@ Top vendors combined **throughput** with **cost discipline** across improvement 
 
 
 ---
-
-## Final Outcomes & Vendor Analysis
+## Project Completion Report
+### Final Outcomes
 The project completed **all 25,398 improvements** and achieved **100% basic access**, adding **~18.36M** people to reliable, safe water. Queue times and contamination alerts fell as taps, wells, and RO/UV systems went live in priority clusters.  
 **Snapshot of project completion**  
 ![Final – Completion & Access](MD_water_dashboards/4_Md_project_completion_Overview.png)
@@ -157,7 +158,7 @@ The project completed **all 25,398 improvements** and achieved **100% basic acce
 
 ## How to Explore
 - Browse all **inline dashboards** above.  
-- (Optional) Add a link to the **Power BI Service** or share a redacted **.pbix** for reproducibility.  
+- link to the **Power BI Service**:   
 - Images live in: [`MD_water_dashboards/](https://github.com/surafellh/Maji-Ndogo-Visualization/tree/main/MD_water_dashboards).
 
 ---
