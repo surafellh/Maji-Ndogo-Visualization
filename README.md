@@ -2,8 +2,8 @@
 *From scarcity to sustainability: a data‑driven journey in Power BI*
 
 ## Table of Contents
-- Overview
-- [Proposed Solutions & Budget](#rogress After One Year
+- [Overview](./#overview)
+- #Proposed Solutions & Budget
 - Final Outcomes & Vendor Analysis
 - Next Steps & Key Takeaways
 - Tools Used
@@ -101,32 +101,32 @@ Leaning into **RO** and **public taps** with strategic **well drilling** extends
 
 ## Progress After One Year
 After one year, basic access rose from **~33.6%** to **~48%**, benefiting **~3.94M** additional people. The program achieved **~22% completion** (≈**5,459** of **25,398** improvements), signaling a strong start while revealing areas to optimize.  
-**Dashboard**  
-![ear 1 – Progress
+**Snapshot of progress after a year**  
+![year 1 – Progress](MD_water_dashboards/3_Md_project_progress_overview.png)
 
 ### Budget vs Actual
 Actual spend reached **$33.79M** versus a **$30.52M** budget (**‑10.69% variance**), reflecting accelerated delivery in high‑need zones and front‑loaded RO deployments. Variance drivers include rural logistics and vendor travel patterns that central planning can mitigate.  
-**Dashboard**  
-![Year 1 – Budgetvs Actual
+**Snapshot of cummulative budget**  
+![Year 1 – Budgetvs Actual](MD_water_dashboards/3_Md_project_progress_budget_usage.png)
 
 ### Vendor Performance (Year 1)
 Top vendors combined **throughput** with **cost discipline** across improvement types (RO, UV+RO, taps, wells, repairs). Early standouts set benchmarks for assignment in Year 2, informing a more geography‑aware routing to reduce variance.  
-**Dashboards**  
-!Year 1 – Vendor Leaderboard  
+**Snapshot of Venders performance**  
+![Year 1 – Vendor Leaderboard](MD_water_dashboards/3_Md_project_progress_Vendors_analsis.png)  
 
 
 ---
 
 ## Final Outcomes & Vendor Analysis
 The project completed **all 25,398 improvements** and achieved **100% basic access**, adding **~18.36M** people to reliable, safe water. Queue times and contamination alerts fell as taps, wells, and RO/UV systems went live in priority clusters.  
-**Dashboard**  
-!Final – Completion & Access
+**Snapshot of project completion**  
+![Final – Completion & Access](MD_water_dashboards/4_Md_project_completion_Overview.png)
 
 
 ### Vendors & Operational Insights
 **Entebbe RO Installers** delivered cost‑effective RO throughput by minimizing travel and maximizing completion density. In contrast, teams like **MBS605 (Sokoto)** operated in harsh rural conditions where higher costs align with context; a capability‑ and geography‑aware assignment model will reduce travel, variance, and lead times across all vendors.  
-**Dashboard**  
-!Final – Vendor Performance
+**Snapshot of Vendors' performance**  
+![Final – Vendor Performance](MD_water_dashboards/4_Md_project_completion_vendors.png)
 
 ---
 
