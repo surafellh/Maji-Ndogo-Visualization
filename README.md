@@ -46,7 +46,7 @@ Men comprise **~64.39%** of total victims (~49.7K), driven by theft and public�
 
 ---
 
-## Proposed Solutions & Budget
+## Proposed Improvements & Budget
 The national plan invests **$147M** across five interventions—**drill wells**, **install public taps**, **install RO**, **install UV+RO**, and **repair infrastructure**—to progress rapidly toward universal access. KPIs track **population served**, **improvements completed**, **cost per citizen**, and **province‑level progress**.  
 
 
@@ -63,21 +63,21 @@ Spending balances **fast wins** (repairs, public taps) with **safety upgrades** 
 Each province has a dedicated dashboard page with budgets, improvements, urban/rural split, town‑level detail, and cost per citizen.
 
 #### Sokoto
-Strategy blends **well drilling** and **public taps** to serve dispersed rural towns, with RO at contaminated points. Planned **5,603 improvements** and **$40.15M** budget (cost per citizen **~6.95**) target high‑need communities.  
+Strategy blends **well drilling** and **public taps** to serve dispersed rural towns, with **RO filters** at contaminated points. Planned **5,603 improvements** and **$40.15M** budget (cost per citizen **~10.01**) target high‑need communities.  
 
 
 **Snapshot of Sokoto plan and budget**  
 ![Sokoto –Drill-through](MD_water_dashboards/2_Md_proposed_sokoto.png)
 
 #### Kilimani 
-Emphasis on **public taps** and **RO** addresses dense demand, queue pressure, and contamination near urban hubs. Planned **6,700 improvements** and **$39.25M** budget (cost per citizen **~5.96**) prioritize high‑crime neighborhoods for safer access.  
+Emphasis on **public taps** and **RO filters** addresses dense demand, queue pressure, and contamination near urban hubs. Planned **6,700 improvements** and **$39.25M** budget (cost per citizen **~8.32**) prioritize high‑crime neighborhoods for safer access.  
 
 
 **Snapshot of Kilimani plan and budget**  
 ![Kilimani – Drill-through](MD_water_dashboards/2_Md_proposed_kilimani.png) 
 
 #### Hawassa
-Follows A balanced approach of **RO/UV** and **public taps** stabilizes quality while expanding access. Planned **4,384 improvements**, **$22.55M** budget, and cost per citizen **~5.87** are managed via corridor‑based clustering.  
+Follows A balanced approach of **RO/UV filters** and **public taps** stabilizes quality while expanding access. Planned **4,384 improvements**, **$22.55M** budget, and cost per citizen **~8.38** are managed via corridor‑based clustering.  
 
 
 **Snapshot of Hawassa plan and budget**  
@@ -91,7 +91,7 @@ Follows A balanced approach of **RO/UV** and **public taps** stabilizes quality 
 ![Amanzi – Drill-through](MD_water_dashboards/2_Md_proposed_amanzi.png)
 
 #### Akatsi 
-Leaning into **RO** and **public taps** with strategic **well drilling** extends rural reach at a competitive cost per citizen (**~5.23**). Planned **4,963 improvements** and **$31.36M** budget to reduce boil‑water advisories and expand safe coverage.  
+Leaning into **RO** and **public taps** with strategic **well drilling** extends rural reach at a competitive cost per citizen (**~8.35**). Planned **4,963 improvements** and **$31.36M** budget to reduce boil‑water advisories and expand safe coverage.  
 
 
 **Snapshot of Akatsi plan and budget**  
