@@ -158,7 +158,7 @@ The project completed **all 25,398 improvements** and achieved **100% basic acce
 
 ## How to Explore
 - Browse all **inline dashboards** above.  
-- link to the **Power BI Service**:   
+- link to the **Power BI Service**: [Power-BI-files](https://github.com/surafellh/Maji-Ndogo-Visualization/tree/main/Power-BI-files)  
 - Images live in: [`MD_water_dashboards/](https://github.com/surafellh/Maji-Ndogo-Visualization/tree/main/MD_water_dashboards).
 
 ---
