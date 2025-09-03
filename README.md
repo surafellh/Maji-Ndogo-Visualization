@@ -18,7 +18,7 @@ Maji Ndogo began with severe water access gaps: only **~33.6%** (~9.3M of 27.6M 
 
 
 **Snapshot of the maji ndogo overview**  
-![Executive Overview](./MD_water_dashboards/2_Md_proposed_akatsi.png)
+![Executive Overview](./MD_water_dashboards/3_Md_project_progress_overview.png)
 
 
 
